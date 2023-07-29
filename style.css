@@ -30,6 +30,8 @@ hr {
 .btn-primary {
   background-color: #f05f44;
   border-color: #f05f44;
+  --bs-btn-hover-bg: #ee4b08;
+  --bs-btn-hover-border-color: #ee4b08;
 }
 
 .btn-primary:hover {
