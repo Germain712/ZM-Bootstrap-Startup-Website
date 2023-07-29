@@ -29,6 +29,10 @@ hr {
   text-transform: uppercase;
 }
 
+.btn-primary {
+  background-color: #f05f44;
+}
+
 .btn-xl {
   padding: 1rem 2rem;
 }
